@@ -1,0 +1,146 @@
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\appsettings.Development.json
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\appsettings.json
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\EmployeesApp.exe
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\EmployeesApp.deps.json
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\EmployeesApp.runtimeconfig.json
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\EmployeesApp.runtimeconfig.dev.json
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\EmployeesApp.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\EmployeesApp.pdb
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\EmployeesApp.Views.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\EmployeesApp.Views.pdb
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\Humanizer.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.AssemblyInfoInputs.cache
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.AssemblyInfo.cs
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.csproj.CoreCompileInputs.cache
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.MvcApplicationPartsAssemblyInfo.cache
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.RazorAssemblyInfo.cache
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.RazorAssemblyInfo.cs
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\scopedcss\bundle\EmployeesApp.styles.css
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\staticwebassets\EmployeesApp.StaticWebAssets.Manifest.cache
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.TagHelpers.input.cache
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.TagHelpers.output.cache
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.RazorCoreGenerate.cache
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.RazorTargetAssemblyInfo.cache
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.RazorTargetAssemblyInfo.cs
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.Views.pdb
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.csproj.CopyComplete
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\ref\EmployeesApp.dll
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.pdb
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.genruntimeconfig.cache
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.csproj.AssemblyReference.cache
+D:\AGC\Programming\Topics\مشاريع كاملة\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\refint\EmployeesApp.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\appsettings.Development.json
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\appsettings.json
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\EmployeesApp.exe
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\EmployeesApp.deps.json
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\EmployeesApp.runtimeconfig.json
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\EmployeesApp.runtimeconfig.dev.json
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\EmployeesApp.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\EmployeesApp.pdb
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\EmployeesApp.Views.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\EmployeesApp.Views.pdb
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\Humanizer.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.csproj.AssemblyReference.cache
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.AssemblyInfoInputs.cache
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.AssemblyInfo.cs
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.csproj.CoreCompileInputs.cache
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.MvcApplicationPartsAssemblyInfo.cache
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.RazorAssemblyInfo.cache
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.RazorAssemblyInfo.cs
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\scopedcss\bundle\EmployeesApp.styles.css
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\staticwebassets\EmployeesApp.StaticWebAssets.Manifest.cache
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.TagHelpers.input.cache
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.TagHelpers.output.cache
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.RazorCoreGenerate.cache
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.RazorTargetAssemblyInfo.cache
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.RazorTargetAssemblyInfo.cs
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.Views.pdb
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.csproj.CopyComplete
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\refint\EmployeesApp.dll
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.pdb
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\EmployeesApp.genruntimeconfig.cache
+D:\AGC\Programming\Tutorials\ASP.Net Core\EX\EmployeesApp\obj\Debug\net5.0\ref\EmployeesApp.dll

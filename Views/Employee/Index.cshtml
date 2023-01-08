@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Employee>
+<h1>Employee View</h1>
+
+@using (Html.BeginForm())
+{
+    <div class="input-group">
+
+        @Html.TextBox("SearchByName", null, new { @class = "form-control", @placeholder = "Search By Employee..." })
+        <input type="submit" value="Search" class="btn btn-outline-success" />
+        <a asp-action="Create" class="btn btn-outline-primary">Create New</a>
+    </div>
+
+}
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(a => a.EmployeeNumber)
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(a => a.EmployeeName)*@
+                @Html.ActionLink("Employee Name", "Index", new { sortField = "EmployeeName", currentsortField = ViewBag.SortField, sortDirection = ViewBag.SortDirection })
+            </th>
+            <th>
+                @Html.DisplayNameFor(a => a.DOB)
+            </th>
+            <th>
+                @Html.DisplayNameFor(a => a.HiringDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(a => a.GroosSalary)
+            </th>
+            <th>
+                @Html.DisplayNameFor(a => a.NetsSalary)
+            </th>
+            <th>
+                @Html.DisplayNameFor(a => a.DepartmentName)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(a => item.EmployeeNumber)</td>
+                <td>@Html.DisplayFor(a => item.EmployeeName)</td>
+                <td>@Html.DisplayFor(a => item.DOB)</td>
+                <td>@Html.DisplayFor(a => item.HiringDate)</td>
+                <td>@Html.DisplayFor(a => item.GroosSalary)</td>
+                <td>@Html.DisplayFor(a => item.NetsSalary)</td>
+                <td>@Html.DisplayFor(a => item.DepartmentName)</td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.EmployeeId })
+                    @Html.ActionLink("Delete", "Delete", new { id = item.EmployeeId })
+                    @*<a asp-action="Edit" class="btn btn-success">Edit</a>*@
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
